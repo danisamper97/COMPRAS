@@ -1,0 +1,2317 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="Pruebaweb_archivos/filelist.xml">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style id="PLANTILLA_COMPRAS_DSM_2331_Styles"><!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl152331
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl652331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl662331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl672331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl682331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Percent;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl692331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl702331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl712331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl722331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl732331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl742331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl752331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl762331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl772331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:none;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl782331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl792331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl802331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl812331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl822331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl832331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid #0D0D0D;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl842331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl852331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:none;
+	border-left:none;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl862331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#305496;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl872331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#305496;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl882331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#305496;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl892331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.5pt solid windowtext;
+	border-bottom:none;
+	border-left:1.5pt solid windowtext;
+	background:#262626;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl902331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	background:#FFE699;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl912331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl922331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:1.5pt solid #0D0D0D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl932331
+	{padding:0px;
+	mso-ignore:padding;
+	color:#0563C1;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl942331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #9BC2E6;
+	border-right:.5pt solid #9BC2E6;
+	border-bottom:.5pt solid #9BC2E6;
+	border-left:1.5pt solid windowtext;
+	background:#B4C6E7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl952331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid #9BC2E6;
+	background:#B4C6E7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl962331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #9BC2E6;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid #9BC2E6;
+	border-left:.5pt solid #9BC2E6;
+	background:#B4C6E7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl972331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #9BC2E6;
+	border-right:.5pt solid #9BC2E6;
+	border-bottom:.5pt solid #9BC2E6;
+	border-left:1.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl982331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid #9BC2E6;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl992331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:Fixed;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid #9BC2E6;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl1002331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #9BC2E6;
+	border-right:1.5pt solid windowtext;
+	border-bottom:.5pt solid #9BC2E6;
+	border-left:.5pt solid #9BC2E6;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl1012331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:.5pt solid #A9D08E;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl1022331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:1.0pt solid #F9D783;
+	border-bottom:none;
+	border-left:1.5pt solid #0D0D0D;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1032331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid #A9D08E;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:.5pt solid #A9D08E;
+	border-left:.5pt solid #A9D08E;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl1042331
+	{padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid #9BC2E6;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl1052331
+	{padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl1062331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid #0D0D0D;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1072331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1082331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:none;
+	border-left:none;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1092331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid #0D0D0D;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1102331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:none;
+	border-left:none;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1112331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:1.0pt solid #F9D783;
+	border-bottom:none;
+	border-left:1.0pt solid #F9D783;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl1122331
+	{padding:0px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.5pt solid #0D0D0D;
+	border-right:1.5pt solid #0D0D0D;
+	border-bottom:none;
+	border-left:1.0pt solid #F9D783;
+	background:#548235;
+	mso-pattern:black none;
+	white-space:nowrap;}
+--></style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--La siguiente información se generó mediante el Asistente para publicar como
+página web de Microsoft Excel.-->
+<!--Si se vuelve a publicar el mismo elemento desde Excel, se reemplazará toda
+la información comprendida entre las etiquetas DIV.-->
+<!----------------------------->
+<!--INICIO DE LOS RESULTADOS DEL ASISTENTE PARA PUBLICAR COMO PÁGINA WEB DE
+EXCEL -->
+<!----------------------------->
+
+<div id="PLANTILLA_COMPRAS_DSM_2331" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=9255 style='border-collapse:
+ collapse;table-layout:fixed;width:6948pt'>
+ <col width=173 style='mso-width-source:userset;mso-width-alt:6326;width:130pt'>
+ <col width=39 style='mso-width-source:userset;mso-width-alt:1426;width:29pt'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3657;width:75pt'>
+ <col width=103 style='mso-width-source:userset;mso-width-alt:3766;width:77pt'>
+ <col width=112 style='mso-width-source:userset;mso-width-alt:4096;width:84pt'>
+ <col width=150 style='mso-width-source:userset;mso-width-alt:5485;width:113pt'>
+ <col width=232 style='mso-width-source:userset;mso-width-alt:8484;width:174pt'>
+ <col width=80 span=3 style='mso-width-source:userset;mso-width-alt:2925;
+ width:60pt'>
+ <col width=99 style='mso-width-source:userset;mso-width-alt:3620;width:74pt'>
+ <col width=104 style='mso-width-source:userset;mso-width-alt:3803;width:78pt'>
+ <col width=80 style='mso-width-source:userset;mso-width-alt:2925;width:60pt'>
+ <col width=109 style='mso-width-source:userset;mso-width-alt:3986;width:82pt'>
+ <col width=80 span=2 style='mso-width-source:userset;mso-width-alt:2925;
+ width:60pt'>
+ <col width=129 style='mso-width-source:userset;mso-width-alt:4717;width:97pt'>
+ <col width=130 style='mso-width-source:userset;mso-width-alt:4754;width:98pt'>
+ <col width=121 style='mso-width-source:userset;mso-width-alt:4425;width:91pt'>
+ <col width=117 style='mso-width-source:userset;mso-width-alt:4278;width:88pt'>
+ <col width=194 style='mso-width-source:userset;mso-width-alt:7094;width:146pt'>
+ <col width=80 style='mso-width-source:userset;mso-width-alt:2925;width:60pt'>
+ <col width=63 style='mso-width-source:userset;mso-width-alt:2304;width:47pt'>
+ <col width=72 style='mso-width-source:userset;mso-width-alt:2633;width:54pt'>
+ <col width=108 style='mso-width-source:userset;mso-width-alt:3949;width:81pt'>
+ <col width=111 style='mso-width-source:userset;mso-width-alt:4059;width:83pt'>
+ <col width=121 style='mso-width-source:userset;mso-width-alt:4425;width:91pt'>
+ <col width=157 style='mso-width-source:userset;mso-width-alt:5741;width:118pt'>
+ <col width=169 style='mso-width-source:userset;mso-width-alt:6180;width:127pt'>
+ <col width=142 span=2 style='mso-width-source:userset;mso-width-alt:5193;
+ width:107pt'>
+ <col width=272 style='mso-width-source:userset;mso-width-alt:9947;width:204pt'>
+ <col class=xl1052331 width=124 style='mso-width-source:userset;mso-width-alt:
+ 4534;width:93pt'>
+ <col class=xl1052331 width=103 style='mso-width-source:userset;mso-width-alt:
+ 3766;width:77pt'>
+ <col class=xl1052331 width=148 style='mso-width-source:userset;mso-width-alt:
+ 5412;width:111pt'>
+ <col width=358 style='mso-width-source:userset;mso-width-alt:13092;width:269pt'>
+ <col width=269 style='mso-width-source:userset;mso-width-alt:9837;width:202pt'>
+ <col width=173 style='mso-width-source:userset;mso-width-alt:6326;width:130pt'>
+ <col width=297 style='mso-width-source:userset;mso-width-alt:10861;width:223pt'>
+ <col width=122 style='mso-width-source:userset;mso-width-alt:4461;width:92pt'>
+ <col width=140 style='mso-width-source:userset;mso-width-alt:5120;width:105pt'>
+ <col width=280 style='mso-width-source:userset;mso-width-alt:10240;width:210pt'>
+ <col width=465 style='mso-width-source:userset;mso-width-alt:17005;width:349pt'>
+ <col width=164 style='mso-width-source:userset;mso-width-alt:5997;width:123pt'>
+ <col width=185 style='mso-width-source:userset;mso-width-alt:6765;width:139pt'>
+ <col width=109 style='mso-width-source:userset;mso-width-alt:3986;width:82pt'>
+ <col width=103 style='mso-width-source:userset;mso-width-alt:3766;width:77pt'>
+ <col width=116 style='mso-width-source:userset;mso-width-alt:4242;width:87pt'>
+ <col width=65 style='mso-width-source:userset;mso-width-alt:2377;width:49pt'>
+ <col width=85 style='mso-width-source:userset;mso-width-alt:3108;width:64pt'>
+ <col width=50 style='mso-width-source:userset;mso-width-alt:1828;width:38pt'>
+ <col width=71 style='mso-width-source:userset;mso-width-alt:2596;width:53pt'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3657;width:75pt'>
+ <col width=79 style='mso-width-source:userset;mso-width-alt:2889;width:59pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:3181;width:65pt'>
+ <col width=79 style='mso-width-source:userset;mso-width-alt:2889;width:59pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:3181;width:65pt'>
+ <col width=105 style='mso-width-source:userset;mso-width-alt:3840;width:79pt'>
+ <col width=111 style='mso-width-source:userset;mso-width-alt:4059;width:83pt'>
+ <col width=106 style='mso-width-source:userset;mso-width-alt:3876;width:80pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:3181;width:65pt'>
+ <col width=111 style='mso-width-source:userset;mso-width-alt:4059;width:83pt'>
+ <col width=100 style='mso-width-source:userset;mso-width-alt:3657;width:75pt'>
+ <col width=117 style='mso-width-source:userset;mso-width-alt:4278;width:88pt'>
+ <col width=97 style='mso-width-source:userset;mso-width-alt:3547;width:73pt'>
+ <col width=117 style='mso-width-source:userset;mso-width-alt:4278;width:88pt'>
+ <col width=105 style='mso-width-source:userset;mso-width-alt:3840;width:79pt'>
+ <col width=54 style='mso-width-source:userset;mso-width-alt:1974;width:41pt'>
+ <col width=457 style='mso-width-source:userset;mso-width-alt:16713;width:343pt'>
+ <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl892331 width=173 style='height:15.75pt;width:130pt'><a
+  name="RANGE!A1">&nbsp;</a></td>
+  <td class=xl652331 width=39 style='width:29pt'></td>
+  <td class=xl872331 width=100 style='width:75pt'>&nbsp;</td>
+  <td class=xl862331 width=103 style='width:77pt'>&nbsp;</td>
+  <td class=xl862331 width=112 style='width:84pt'>&nbsp;</td>
+  <td class=xl862331 width=150 style='width:113pt'>&nbsp;</td>
+  <td class=xl862331 width=232 style='width:174pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=99 style='width:74pt'>&nbsp;</td>
+  <td class=xl862331 width=104 style='width:78pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=109 style='width:82pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl862331 width=129 style='width:97pt'>&nbsp;</td>
+  <td class=xl862331 width=130 style='width:98pt'>&nbsp;</td>
+  <td class=xl862331 width=121 style='width:91pt'>&nbsp;</td>
+  <td class=xl862331 width=117 style='width:88pt'>&nbsp;</td>
+  <td class=xl862331 width=194 style='width:146pt'>&nbsp;</td>
+  <td class=xl882331 width=80 style='width:60pt'>&nbsp;</td>
+  <td class=xl152331 width=63 style='width:47pt'></td>
+  <td class=xl1022331 width=72 style='width:54pt'>DATE</td>
+  <td colspan=5 class=xl1022331 width=666 style='border-right:1.5pt solid #0D0D0D;
+  width:500pt'>PERSONAL DATA</td>
+  <td colspan=10 class=xl1062331 width=2028 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:1523pt'>ENTERPRISE DATA</td>
+  <td colspan=4 class=xl1062331 width=1007 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:756pt'>PRODUCT DATA</td>
+  <td colspan=5 class=xl1062331 width=677 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:508pt'>Machining</td>
+  <td colspan=12 class=xl1062331 width=1025 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:769pt'>COSTS</td>
+  <td colspan=7 class=xl1062331 width=734 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:551pt'>EUROS</td>
+  <td colspan=2 class=xl1092331 width=511 style='border-right:1.5pt solid #0D0D0D;
+  border-left:none;width:384pt'>Final decision</td>
+ </tr>
+ <tr class=xl792331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl902331 style='height:15.0pt'>Código</td>
+  <td class=xl652331></td>
+  <td class=xl942331>Fecha pedido</td>
+  <td class=xl952331 style='border-left:none'>Nº Albarán</td>
+  <td class=xl952331 style='border-left:none'>Nº Factura</td>
+  <td class=xl952331 style='border-left:none'>Empresa</td>
+  <td class=xl952331 style='border-left:none'>Descripción</td>
+  <td class=xl952331 style='border-left:none'>Tipo</td>
+  <td class=xl952331 style='border-left:none'>División</td>
+  <td class=xl952331 style='border-left:none'>FSC/FSE</td>
+  <td class=xl952331 style='border-left:none'>Pagado Por</td>
+  <td class=xl952331 style='border-left:none'>Coste (IVA)</td>
+  <td class=xl952331 style='border-left:none'>Moneda</td>
+  <td class=xl952331 style='border-left:none'>Cambio a EUR</td>
+  <td class=xl952331 style='border-left:none'>Mecia</td>
+  <td class=xl952331 style='border-left:none'>Subtotal</td>
+  <td class=xl952331 style='border-left:none'>Método pago</td>
+  <td class=xl952331 style='border-left:none'>Fecha de pago</td>
+  <td class=xl952331 style='border-left:none'>Partida</td>
+  <td class=xl952331 style='border-left:none'>Estado</td>
+  <td class=xl952331 style='border-left:none'>Observaciones</td>
+  <td class=xl962331 style='border-left:none'>&nbsp;</td>
+  <td class=xl792331></td>
+  <td class=xl802331>DATE</td>
+  <td class=xl802331>Name</td>
+  <td class=xl812331 style='border-left:none'>Surname 1</td>
+  <td class=xl812331 style='border-left:none'>Surname 2</td>
+  <td class=xl812331 style='border-left:none'>Own division</td>
+  <td class=xl822331 style='border-left:none'>Rules division</td>
+  <td class=xl832331 style='border-left:none'>Name</td>
+  <td class=xl842331>CIF</td>
+  <td class=xl842331>Web page:</td>
+  <td class=xl842331>Country</td>
+  <td class=xl842331>City</td>
+  <td class=xl842331>Phone</td>
+  <td class=xl842331>Adress</td>
+  <td class=xl842331>Contact name</td>
+  <td class=xl842331>Type</td>
+  <td class=xl852331>Email</td>
+  <td class=xl832331 style='border-left:none'>Product</td>
+  <td class=xl842331>Model</td>
+  <td class=xl842331>Description</td>
+  <td class=xl852331>Use</td>
+  <td class=xl832331 style='border-left:none'>Machining</td>
+  <td class=xl842331>Machine</td>
+  <td class=xl842331>Machining setup</td>
+  <td class=xl842331>Machining time</td>
+  <td class=xl852331>Not working time</td>
+  <td class=xl832331 style='border-left:none'>VAT</td>
+  <td class=xl842331>Quantity</td>
+  <td class=xl842331>Unit</td>
+  <td class=xl842331>Currency</td>
+  <td class=xl842331>Ex. Rate EUR</td>
+  <td class=xl842331>Cost NS</td>
+  <td class=xl842331>Cost NS/U</td>
+  <td class=xl842331>Cost YS</td>
+  <td class=xl842331>Cost YS/U</td>
+  <td class=xl842331>Transp Cost</td>
+  <td class=xl842331>Total Cost NS</td>
+  <td class=xl852331>Total Cost YS</td>
+  <td class=xl832331 style='border-left:none'>Cost NS EUR</td>
+  <td class=xl842331>Cost NS/U EUR</td>
+  <td class=xl842331>Cost YS EUR</td>
+  <td class=xl842331>Cost YS/U EUR</td>
+  <td class=xl842331>Transp Cost</td>
+  <td class=xl842331>Total Cost NS</td>
+  <td class=xl852331>Total Cost YS</td>
+  <td class=xl832331 style='border-left:none'>YES/NO</td>
+  <td class=xl852331>Explain the decision</td>
+ </tr>
+ <tr class=xl732331 height=0 style='display:none'>
+  <td class=xl912331 style='border-top:none'>40035431910</td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl1042331 align=right width=232 style='border-top:none;border-left:
+  none;width:174pt'>0</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 align=right style='border-top:none'>0</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl762331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl742331 align=right style='border-left:none'>0</td>
+  <td class=xl1012331 align=right>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl762331 align=right style='border-left:none'>0</td>
+  <td class=xl742331 align=right style='border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl772331 align=right width=280 style='border-left:none;width:210pt'>0</td>
+  <td class=xl782331 align=right width=465 style='width:349pt'>0</td>
+  <td class=xl742331 align=right style='border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-left:none'>0</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl672331 style='border-left:none'>0</td>
+  <td class=xl682331 style='border-left:none'>0.00%</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl662331 style='border-left:none'>0</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>&nbsp;</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>&nbsp;</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl702331 style='border-left:none'>0.00</td>
+  <td class=xl712331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl692331 style='border-left:none'>0.00</td>
+  <td class=xl702331 style='border-left:none'>0.00</td>
+  <td class=xl722331 style='border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-left:none;width:343pt'>0</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40035431910.pdf">40035431910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1042331 width=232 style='border-top:none;border-left:none;
+  width:174pt'>descripcion del modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Daniel</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl762331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>because<span style='mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40019291910.pdf">40019291910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1042331 width=232 style='border-top:none;border-left:none;
+  width:174pt'>descripcion del modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Daniel</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Medium company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>because<span style='mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40011181910.pdf">40011181910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1042331 width=232 style='border-top:none;border-left:none;
+  width:174pt'>Tiene helado de pistachoooo?????</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Motor</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Ramiro</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Motor</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Engine and
+  drivetrain</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Medium company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Helado de
+  pistacho</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Pistacho</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>Tiene helado de pistachoooo?????</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>Ujjj que
+  asco</td>
+  <td class=xl742331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>0</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>0</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>0</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Porque es helado de pistacho</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40009451910.pdf">40009451910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Motor</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Pepe</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Motor</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Engine and
+  drivetrain</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Medium company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Sensor</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MOD55122_55</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>Coche entero</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Explicar todas las razones</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40009111910.pdf">40009111910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Dinamic</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Carlos</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Dinamic</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Medium company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Fibra de carbono</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>RC200T</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>Coche entero</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Explicar todas las razones</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40008351910.pdf">40008351910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Daniel</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Medium company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Explicar todas las razones</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40003111910.pdf">40003111910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>OHL</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Marketing</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Teresa</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Marketing</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>OHL</td>
+  <td class=xl1012331 style='border-top:none'>4956195626-k</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Small company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Cosas poner</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40002351910.pdf">40002351910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Marketing</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Teresa</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Marketing</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Cosas poner</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/40002101910.pdf">40002101910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Daniel</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Steering system</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 align=right style='border-top:none;border-left:none'>0</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>CNY</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Cosas poner</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/32351371910.pdf">32353351910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Otra</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>13.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.90</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>11.70</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/3/2019</td>
+  <td class=xl742331 style='border-top:none'>Sandra</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>sanchez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Chassis</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Wheels and tyres</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Otra</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Germany</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Yo me llamo</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Small company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Fibra de carbono</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>RC200T</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.90</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>15.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>3.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>12.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.40</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>16.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>13.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>13.50</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.70</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>10.80</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.16</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.90</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>14.40</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>11.70</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Poner otras razones</td>
+ </tr>
+ <tr class=xl732331 height=20 style='height:15.0pt'>
+  <td height=20 class=xl932331 style='height:15.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/32351371910.pdf">32351371910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Telefonica</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Dinamic</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>6.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>0.90</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>5.40</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/4/2019</td>
+  <td class=xl742331 style='border-top:none'>Ramiro</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>sanchez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Dinamic</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Miscellaneous</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Telefonica</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Yo me llamo</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Small company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.90</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>15.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>3.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>3.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.60</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>3.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>18.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>6.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>13.50</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.70</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.70</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>0.54</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>2.70</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>16.20</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>5.40</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Poner otras razones</td>
+ </tr>
+ <tr class=xl732331 height=40 style='height:30.0pt'>
+  <td height=40 class=xl932331 style='height:30.0pt;border-top:none'><a
+  href="../../../../../../../COMPRAS_2019/32349441910.pdf">32349441910</a></td>
+  <td class=xl732331></td>
+  <td class=xl972331 style='border-top:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>descripcion del
+  modelo</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>Bateries</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl992331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl992331 align=right style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl982331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl1002331 style='border-top:none;border-left:none'>&nbsp;</td>
+  <td class=xl732331></td>
+  <td class=xl922331 style='border-top:none'>10/3/2019</td>
+  <td class=xl742331 style='border-top:none'>Daniel</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Samper</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Martínez</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Bateries</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>Miscellaneous</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>Lasertek</td>
+  <td class=xl1012331 style='border-top:none'>06224315-y</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>www.lasertek.com</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Spain</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>Madrid</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>618552795</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>street burlake
+  jechi</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>hesienmann</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>Small company</td>
+  <td class=xl762331 style='border-top:none;border-left:none'>lasertek@gmail.com</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>soldadura</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>MIG</td>
+  <td class=xl772331 width=280 style='border-top:none;border-left:none;
+  width:210pt'>descripcion del modelo</td>
+  <td class=xl782331 width=465 style='border-top:none;width:349pt'>weldings</td>
+  <td class=xl742331 style='border-top:none;border-left:none'>laser cutting</td>
+  <td class=xl752331 style='border-top:none;border-left:none'>lasser cutting
+  machine</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>120</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>200</td>
+  <td class=xl672331 style='border-top:none;border-left:none'>40</td>
+  <td class=xl682331 style='border-top:none;border-left:none'>10.00%</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>5.00</td>
+  <td class=xl662331 style='border-top:none;border-left:none'>kg</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>EUR<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl692331 style='border-top:none;border-left:none'>1.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl712331 style='border-top:none;border-left:none'>200.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>100.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>20.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>40.00</td>
+  <td class=xl692331 style='border-top:none;border-left:none'>240.00</td>
+  <td class=xl702331 style='border-top:none;border-left:none'>140.00</td>
+  <td class=xl722331 style='border-top:none;border-left:none'>YES</td>
+  <td class=xl1032331 width=457 style='border-top:none;border-left:none;
+  width:343pt'>Poner aquí las razones por las que al final este producto ha
+  sido el escogido.</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl652331 style='height:15.0pt'></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl652331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl1052331></td>
+  <td class=xl1052331></td>
+  <td class=xl1052331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+  <td class=xl152331></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=173 style='width:130pt'></td>
+  <td width=39 style='width:29pt'></td>
+  <td width=100 style='width:75pt'></td>
+  <td width=103 style='width:77pt'></td>
+  <td width=112 style='width:84pt'></td>
+  <td width=150 style='width:113pt'></td>
+  <td width=232 style='width:174pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=99 style='width:74pt'></td>
+  <td width=104 style='width:78pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=109 style='width:82pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=129 style='width:97pt'></td>
+  <td width=130 style='width:98pt'></td>
+  <td width=121 style='width:91pt'></td>
+  <td width=117 style='width:88pt'></td>
+  <td width=194 style='width:146pt'></td>
+  <td width=80 style='width:60pt'></td>
+  <td width=63 style='width:47pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=108 style='width:81pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=121 style='width:91pt'></td>
+  <td width=157 style='width:118pt'></td>
+  <td width=169 style='width:127pt'></td>
+  <td width=142 style='width:107pt'></td>
+  <td width=142 style='width:107pt'></td>
+  <td width=272 style='width:204pt'></td>
+  <td width=124 style='width:93pt'></td>
+  <td width=103 style='width:77pt'></td>
+  <td width=148 style='width:111pt'></td>
+  <td width=358 style='width:269pt'></td>
+  <td width=269 style='width:202pt'></td>
+  <td width=173 style='width:130pt'></td>
+  <td width=297 style='width:223pt'></td>
+  <td width=122 style='width:92pt'></td>
+  <td width=140 style='width:105pt'></td>
+  <td width=280 style='width:210pt'></td>
+  <td width=465 style='width:349pt'></td>
+  <td width=164 style='width:123pt'></td>
+  <td width=185 style='width:139pt'></td>
+  <td width=109 style='width:82pt'></td>
+  <td width=103 style='width:77pt'></td>
+  <td width=116 style='width:87pt'></td>
+  <td width=65 style='width:49pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=50 style='width:38pt'></td>
+  <td width=71 style='width:53pt'></td>
+  <td width=100 style='width:75pt'></td>
+  <td width=79 style='width:59pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=79 style='width:59pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=105 style='width:79pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=106 style='width:80pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=100 style='width:75pt'></td>
+  <td width=117 style='width:88pt'></td>
+  <td width=97 style='width:73pt'></td>
+  <td width=117 style='width:88pt'></td>
+  <td width=105 style='width:79pt'></td>
+  <td width=54 style='width:41pt'></td>
+  <td width=457 style='width:343pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--FINAL DE LOS RESULTADOS DEL ASISTENTE PARA PUBLICAR COMO PÁGINA WEB DE
+EXCEL-->
+<!----------------------------->
+</body>
+
+</html>
+
